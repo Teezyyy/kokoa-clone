@@ -1,3 +1,3 @@
-# Kokoa Clone_Nomad Coders
+# Kokoa Clone from Nomad Coders
 
-Learning HTML&CSS from scratch \o/
+Learning HTML & CSS from scratch \o/
